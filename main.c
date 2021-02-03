@@ -108,30 +108,6 @@ int main() {
     }
 
 
-
-
-    clearDoT(&res3);
-    clearDoT(&res2);
-    clearDoT(&res1);
-    BN_free(k2);
-    BN_free(k1);
-    BN_free(k);
-    BN_free(degree);
-    clearDoT(&reDoT);
-    clearDoT(&D);
-    clearDoT(&E);
-    clearDoT(&E);
-    BN_free(digt.p);
-    BN_free(digt.D);
-    BN_free(digt.m);
-    BN_free(digt.u_base);
-    BN_free(digt.v_base);
-    BN_free(crv.X);
-    BN_free(crv.Y);
-    BN_free(crv.D1);
-    BN_free(crv.Z);
-    BN_free(crv.p1);
-
 }
 
 
